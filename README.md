@@ -10,4 +10,9 @@ Thiago Ayres Kimura - RA:  22.221.045-2
 
 ### OBJETIVO
 
-Encontrar a caixa de madeira "leve"
+Encontrar a caixa de madeira "leve".
+
+#### OBSERVAÇÕES:
+
+1. O robô deve encontrar a caixa leve e parar de procurar.
+2. Quando encontrar, ele deve parar e acender os leds.
