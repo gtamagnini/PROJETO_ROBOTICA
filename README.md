@@ -1,4 +1,4 @@
-# PROJETO_ROBOTICA
+# PROJETO DE ROBÓTICA
 
 #### INTEGRANTES:
 Gabryel Lourenço Macial de Morais  - RA: 22.221.021-3
