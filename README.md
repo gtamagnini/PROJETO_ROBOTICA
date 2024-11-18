@@ -2,7 +2,6 @@
 
 #### INTEGRANTES:
 <br>
-<br>
 Gabryel Lourenço Macial de Morais  - RA: 22.221.021-3
 <br>
 Giovanna Borges Tamagnini - RA: 22.221.016-3
